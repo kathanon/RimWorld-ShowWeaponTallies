@@ -1,0 +1,24 @@
+<ModMetaData>
+	<name>Show Weapon Tallies</name>
+	<author>kathanon</author>
+    <packageId>kathanon.ShowWeaponTallies</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<description>When selecting multiple enemy pawns, shows the number of each weapon on the button for it.
+    
+Only shows number of there are more than one of that weapon.</description>
+	<url>https://github.com/kathanon/RimWorld-ShowWeaponTallies</url>
+
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId> 
+			<displayName>Harmony</displayName>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+	</loadAfter>
+</ModMetaData>

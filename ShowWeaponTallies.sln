@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F8D23F31-252A-4E00-8F04-4E7780804704}") = "ShowWeaponTallies", "Source\ShowWeaponTallies.csproj", "{FBD70B86-EA15-4D68-898F-5FB743528770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBD70B86-EA15-4D68-898F-5FB743528770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD70B86-EA15-4D68-898F-5FB743528770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD70B86-EA15-4D68-898F-5FB743528770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD70B86-EA15-4D68-898F-5FB743528770}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3838E946-BDFD-43C5-9C8A-5F53C50879DB}
+	EndGlobalSection
+EndGlobal
